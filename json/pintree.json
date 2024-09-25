@@ -113,8 +113,8 @@
         "type": "link",
         "addDate": 1727169656957,
         "title": "GPT",
-        "icon": "https://logo.clearbit.com/newtab",
-        "url": "edge://newtab/"
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/"
       },
       {
         "type": "folder",
