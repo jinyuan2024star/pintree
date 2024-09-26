@@ -117,6 +117,27 @@
         "url": "https://chatgpt.com/"
       },
       {
+        "type": "link",
+        "addDate": 1727310507848,
+        "title": "百度",
+        "icon": "https://logo.clearbit.com/www.baidu.com",
+        "url": "https://www.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727310600512,
+        "title": "百度地图",
+        "icon": "https://logo.clearbit.com/map.baidu.com",
+        "url": "https://map.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727310479184,
+        "title": "谷歌",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "https://www.google.com/webhp"
+      },
+      {
         "type": "folder",
         "addDate": 1727170155864,
         "title": "N T",
